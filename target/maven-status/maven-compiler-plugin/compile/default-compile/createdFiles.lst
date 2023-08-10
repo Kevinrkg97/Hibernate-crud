@@ -1,0 +1,3 @@
+view\UsuarioView.class
+controllers\UsuarioController.class
+models\Usuario.class
